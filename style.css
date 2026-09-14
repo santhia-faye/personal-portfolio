@@ -7,12 +7,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f6f8;
+    background-color: #fff5f5;
     color: #222222;
 }
 
 header {
-    background-color: #1f3a5f;
+    background-color: #9b1c31;
     color: white;
     text-align: center;
     padding: 3rem 1rem;
@@ -29,7 +29,7 @@ header p {
 }
 
 nav {
-    background-color: #162b45;
+    background-color: #5c1020;
     padding: 1rem;
     text-align: center;
 }
@@ -65,7 +65,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #3f6f9f;
+    background-color: #9b1c31;
 }
 
 nav a:focus {
@@ -88,7 +88,7 @@ section {
 }
 
 section h2 {
-    color: #1f3a5f;
+    color: #9b1c31;
     font-size: 1.8rem;
     margin-top: 0;
 }
@@ -106,8 +106,8 @@ section h2 {
 }
 
 #skills li {
-    background-color: #e7eef5;
-    border-left: 4px solid #1f3a5f;
+    background-color: #ffe1e6;
+    border-left: 4px solid #9b1c31;
     padding: 0.75rem 1rem;
     border-radius: 0.4rem;
 }
@@ -123,17 +123,17 @@ section h2 {
 }
 
 #projects article {
-    border: 1px solid #ccd5df;
+    border: 1px solid #e5a8b2;
     border-radius: 0.6rem;
     padding: 1.5rem;
-    background-color: #f9fafb;
+    background-color: #fffafa;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #projects article:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-6px);
+    box-shadow: 0 8px 18px rgba(155, 28, 49, 0.20);
 }
 
 #projects article:focus-within {
@@ -142,13 +142,13 @@ section h2 {
 }
 
 #projects h3 {
-    color: #1f3a5f;
+    color: #9b1c31;
     margin-top: 0;
     font-size: 1.3rem;
 }
 
 #contact a {
-    color: #174f8c;
+    color: #9b1c31;
     font-weight: bold;
 }
 
@@ -163,7 +163,7 @@ section h2 {
 }
 
 footer {
-    background-color: #162b45;
+    background-color: #5c1020;
     color: white;
     text-align: center;
     padding: 1.5rem 1rem;
